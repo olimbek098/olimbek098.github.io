@@ -1,0 +1,36 @@
+
+
+body {
+	text-align: center;
+	background-color: lightblue;
+}
+
+h1{
+	font-size: 25pt;
+	font-family: sans-serif;
+	text-align: center;
+	color: #f0f0f0;
+
+
+}
+.top {
+	margin-bottom: 100px;
+}
+
+p {
+	font-size: 15pt;
+	font-family: serif;
+	color: green;
+	text-align: center;
+}
+
+.my_info {
+	text-align: left;
+	margin-left: 41%;
+}
+
+.my_photo {
+
+		width: 200px;
+		height: 200px;
+}
